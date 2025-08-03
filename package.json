@@ -2,7 +2,7 @@
   "name": "@rbxts/zyntex-sdk",
   "version": "1.0.0",
   "description": "Typescript types for: The Roblox Zyntex SDK.",
-  "main": "src/init.lua",
+  "main": "init.lua",
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "license": "MIT",
-  "types": "src/index.d.ts",
+  "types": "index.d.ts",
   "files": [
     "src"
   ],
