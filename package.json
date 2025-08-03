@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/zyntex-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript types for: The Roblox Zyntex SDK.",
   "main": "init.lua",
   "scripts": {
