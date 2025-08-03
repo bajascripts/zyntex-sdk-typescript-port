@@ -1,11 +1,14 @@
 {
   "name": "@rbxts/zyntex-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Typescript types for: The Roblox Zyntex SDK.",
   "main": "init.lua",
   "license": "MIT",
   "types": "index.d.ts",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@rbxts/types": "^1.0.867"
   }
 }
